@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @MinatoROCAM 
-- 👀 I’m interested in ... Cybersec
-- 🌱 I’m currently learning ... Python
+- 👋 Hi, I’m @marcooholanda
+- 👀 I’m interested in ... Automation/Deep Learning
+- 🌱 I’m currently learning ... C/C+=
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-MinatoROCAM/MinatoROCAM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 📫 How to reach me -> ig: @marcooholanda
